@@ -1,0 +1,59 @@
+/* CSS to style the HTML elements */
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 0;
+}
+
+/* Heading styles */
+h1, h2, h3, h4, h5, h6 {
+  color: #007bff; /* Blue color for all headings */
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 14px;
+}
+
+/* Paragraph style */
+p {
+  font-size: 14px;
+}
+
+/* Anchor (link) style */
+a {
+  color: #dc3545; /* Red color for links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Strong (bold) text style */
+strong {
+  font-weight: bold;
+  color: #28a745; /* Green color for strong text */
+}
